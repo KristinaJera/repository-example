@@ -14,6 +14,6 @@ Here is ann other exercise!!
 
 Here is an other exercise!!
 
-## Local Development
+### Here are we 
 
-1. Open index.html in your browser. 
+2. Take a look on that example. 
