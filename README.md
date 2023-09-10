@@ -8,4 +8,8 @@ Here i have a new exercise! Take a look on it!
 
 ### Title 
 
-Here is ann other exercise!!
+Here is an other exercise!!
+
+## Local Development
+
+1. Open index.html in your browser. 
